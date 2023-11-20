@@ -4,7 +4,7 @@
 
 <div id='introducao'>
 
-O **projetoP4** é uma aplicação web feita por mim para auxiliar meu Pai no serviço de motomecanização do P4-3°BPM.
+O **projetoP4** é uma aplicação web feita por mim para auxiliar meu Pai no serviço de motomecanização do P4-3°BPM do RN
 </div>
 
 <div id='stack_utilizada'>
